@@ -1,3 +1,9 @@
+![Screenshot (25604)](https://github.com/harshrajbind2024/shop-app/assets/121737517/2769a244-e5d3-4974-9a99-0b1a2b0efd9c)
+
+![Screenshot (25605)](https://github.com/harshrajbind2024/shop-app/assets/121737517/31aaff59-2838-4479-a6f0-fde2054430d6)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
